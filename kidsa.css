@@ -397,6 +397,65 @@ button:active {
   }
 }
 .section-3 .bottom-part .clouds{
-   margin-top: -150px;
+   margin-top: -100px;
 }
-/*------------------------------second page------------------------------------------*/
+/*------------------------------section-4------------------------------------------*/
+.section-4 .cotainer {
+  display: flex;
+  flex-wrap:wrap;
+  background: #fff;
+}
+.section-4 .cotainer .about-us-img .big-img{
+  border-top-left-radius: 500px;
+  border-top-right-radius: 400px;
+  border-bottom-left-radius:130px;
+  border-bottom-right-radius: 230px;
+  margin-left:70px;
+  position: relative;
+}
+.section-4 .cotainer .about-us-img .small-img{
+  position: absolute;
+  margin-top: 200px;
+  margin-left: -100px;
+}
+.section-4 .cotainer .about-us-text h5{
+  font-family: Pangolin;
+  color: chocolate;
+  margin-left: 200px;
+  margin-top: 80px;
+  font-weight: 800;
+}
+.section-4 .cotainer .about-us-text h1{
+  font-family: Quicksand;
+  color:#385469;
+  margin-left: 200px;
+  font-weight: bolder;
+  font-size: xx-large;
+  margin-bottom: 10px;
+}
+.section-4 .cotainer .about-us-text p{
+  font-family: Arial, Helvetica, sans-serif;
+  margin-left: 200px;
+ color:grey;
+}
+.section-4 .cotainer .about-us-text .sports{
+  margin-left: 200px;
+  border-radius: 20px;
+  color:#385469;
+  border:solid 1px antiquewhite;
+  padding:10px;
+}
+.section-4 .cotainer .about-us-text .s1 {
+  margin-left: 200px;
+}
+.section-4 .cotainer .about-us-text .s2 {
+  margin-left: 100px;
+  margin-top: 80px;
+}
+.section-4 .cotainer .about-us-text .s3 {
+  margin-left: 200px;
+  margin-bottom: -80px;
+}
+.section-4 .cotainer .about-us-text .s4{
+  margin-left: 100px;
+}
